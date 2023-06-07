@@ -8,7 +8,7 @@ Please follow this steps for run the project.
 3.  Add Mail settings .env file
     
 4.  Now you can run in your local with this url.
-    http://localhost/task_management/public/
+    http://localhost/TaskManagement/public/
 
 5.  Run the below command
     php artisan queue:work
